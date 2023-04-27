@@ -1,0 +1,21 @@
+.box{
+     background-color: lightskyblue;
+     border-radius: 10px;
+     border: 1px solid white;
+}
+.btn{
+     border: 1px solid white;
+     color: white;
+}
+.space{
+     height: 60px;
+}
+input[type=file]::file-selector-button{
+     margin-right: 20px;
+     border:none;
+     background: #084cdf;
+     padding: 10px 20px;
+     border-radius: 10px;
+     color: #fff;
+     cursor: pointer;
+}
